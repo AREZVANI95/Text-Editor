@@ -13,14 +13,13 @@ This application is a work in-progress, updating and submitting what I currently
 - [Additional Info](#additional-info)
 
 ## Description:
-Application will be capable to allow a user to check out a tech blog site, in which the user will eventually be able to log-in to the site, after first creating a account in the sitem, in which they can afterwards leave comments on their tech skills or offer tech advise to those who share a passion for tech.
+Application will be capable to allow a user to run a text editor on or offline easily accessible through the web.
 
 ## Static Site:
 ![Displaying-Code](/public/images/Coming_soon.png)
-![Displaying-Code](/public/images/Tech-Blog-Web.PNG)
 
 ## Deployment Link:
-- https://techiest-of-blogs.herokuapp.com
+- https://text-editor-4-editors.herokuapp.com
 
 ## Usage:
 - Will Update this Section ones I am further along in the code.
